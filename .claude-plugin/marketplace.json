@@ -1,0 +1,43 @@
+{
+  "name": "parsa-plugins",
+  "description": "Claude Code plugins by Parsa — startup validation, business strategy, and iOS design tooling. Persian and English.",
+  "owner": {
+    "name": "Parsa",
+    "email": "kzn.parsa@icloud.com",
+    "url": "https://github.com/heyparsadev"
+  },
+  "plugins": [
+    {
+      "name": "venture",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/heyparsadev/claude-venture-plugin.git",
+        "path": "venture"
+      },
+      "description": "Business copilot suite: market research, competitor analysis, customer discovery, PMF assessment, GTM strategy, unit economics, and board-style review — chained through a shared per-venture workspace.",
+      "category": "business",
+      "tags": ["startup", "market-research", "competitive-analysis", "pmf", "gtm", "unit-economics", "persian"]
+    },
+    {
+      "name": "founder-playbook",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/heyparsadev/idea-validator.git",
+        "path": "founder-playbook"
+      },
+      "description": "Idea-stage validation: turns a raw startup idea into a testable hypothesis, red-teams it, researches market and competition, designs and synthesizes customer discovery, and gates the build decision on graded evidence. Coach and auto modes.",
+      "category": "business",
+      "tags": ["startup", "idea-validation", "problem-solution-fit", "customer-discovery", "hypothesis-testing", "persian"]
+    },
+    {
+      "name": "liquid-glass",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/heyparsadev/liquid-glass-skill.git"
+      },
+      "description": "iOS 26 Liquid Glass design system for SwiftUI: API reference, HIG principles, design tokens, motion patterns, accessibility and performance rules, anti-patterns, a pattern library, and nine full-screen examples that compile in Xcode 26.",
+      "category": "design",
+      "tags": ["ios26", "swiftui", "liquid-glass", "design-system", "apple", "hig"]
+    }
+  ]
+}
