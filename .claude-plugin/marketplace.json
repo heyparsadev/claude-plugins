@@ -22,7 +22,7 @@
       "name": "founder-playbook",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/heyparsadev/idea-validator.git",
+        "url": "https://github.com/heyparsadev/claude-idea-validator.git",
         "path": "founder-playbook"
       },
       "description": "Idea-stage validation: turns a raw startup idea into a testable hypothesis, red-teams it, researches market and competition, designs and synthesizes customer discovery, and gates the build decision on graded evidence. Coach and auto modes.",

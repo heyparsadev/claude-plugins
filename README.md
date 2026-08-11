@@ -52,7 +52,7 @@ Business copilot suite — market research, competitor analysis, customer discov
 
 Idea-stage validation built on *The Founder's Playbook* — hypothesis, red-team, research, customer discovery, and an evidence-gated build decision.
 
-→ [heyparsadev/idea-validator](https://github.com/heyparsadev/idea-validator)
+→ [heyparsadev/claude-idea-validator](https://github.com/heyparsadev/claude-idea-validator)
 
 ### liquid-glass
 
